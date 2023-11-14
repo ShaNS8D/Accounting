@@ -1,6 +1,6 @@
 import sys
 import datetime
-sys.path.insert(1, 'C:\\Users\\shalaevskiyns\\Documents\\Доки по учебе\\Homework\\Accounting\\application')
+sys.path.insert(1, '') #указать полный путь к папке проекта
 import salary
 from db.people import get_employees
 
